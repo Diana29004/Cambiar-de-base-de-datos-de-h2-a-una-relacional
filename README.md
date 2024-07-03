@@ -31,6 +31,10 @@ Dentro de la data.sql se hace la presente codificación.
 
 ![image](https://github.com/Diana29004/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170267544/edfe67db-b055-48e1-ae23-a9714de50146)
 
+Hacemos clic en Run para que ejecute el Spring y se haga exitosamente la conexión.
+
+![image](https://github.com/Diana29004/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170267544/7213fd57-7996-4c2f-b658-becd3b9ef029)
+
 Base relacional siendo PostgreSQL.
 
 ![image](https://github.com/Diana29004/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170267544/1eff5407-7412-4c3b-bd8b-99d7f1f092d7)
