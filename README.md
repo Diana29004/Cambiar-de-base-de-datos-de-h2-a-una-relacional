@@ -38,7 +38,8 @@ Demostración de la tabla hotel con sus respectivas columnas.
 
 ![image](https://github.com/Diana29004/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170267544/2c1e8544-0571-4a66-bbb5-3f2cbf72ed07)
 
-# Ejecución de la conexión a la base relacional PostgreSQL
+# Ejecución 
+Ejecución de la conexión a la base relacional PostgreSQL
 
 ![image](https://github.com/Diana29004/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170267544/fc320f07-de8e-4ab0-8cde-fea568403c1f)
 
